@@ -3,8 +3,13 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
-
+console.log('Hello, Beautiful World!');
+console.log("Hello,");
+console.log("World!");
+console.log("11");
+console.log("HI,","11 is my favorite number");
+const x = 5+6
+console.log(x);
 console.log('Quoth the Raven "Nevermore"', "-By Edgar Allen Poe");
 
 /*  
